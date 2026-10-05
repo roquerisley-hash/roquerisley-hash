@@ -22,11 +22,8 @@ Atualmente estou aprofundando meus conhecimentos em diferentes áreas da computa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=sql,python,java,c" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=processing" />
+<img src="https://skillicons.dev/icons?i=sql,python,java,c,processing" />
+<br>
 
 </div>
 
