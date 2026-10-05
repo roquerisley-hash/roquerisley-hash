@@ -46,82 +46,13 @@
 
 ### ☕ Java
 
-* Programação Orientada a Objetos
-* Listas Encadeadas
-* Filas
-* Nós e referências
-* Arrays
-* Métodos e classes
-* Encapsulamento
-* Algoritmos de ordenação
-
 ### 🎨 Processing
-
-* Programação Orientada a Objetos
-* Algoritmos de ordenação
-* Bubble Sort
-* Shell Sort
-* Wave Front
-* Movimento multiagente
-* Detecção e tratamento de colisões
 
 ### 🐍 Python
 
-* Fundamentos da linguagem
-* Flask
-* Desenvolvimento Web
-* SQLite
-* Ambientes virtuais
-* Integração entre aplicação e banco de dados
-
 ### 🗄️ SQL
 
-* SQLite
-* SELECT
-* WHERE
-* LIKE
-* COUNT
-* INNER JOIN
-* Consultas e análise de dados
-* Relacionamento entre tabelas
-
 ### ⚙️ C
-
-* Structs
-* Ponteiros
-* Alocação dinâmica
-* `malloc`
-* Manipulação de memória
-
-### 🔧 Git & GitHub
-
-* Repositórios
-* Commits
-* Branches
-* Push / Pull
-* Trabalho colaborativo
-* Versionamento de código
-
----
-
-## 🧠 Algoritmos & Estruturas de Dados
-
-<div align="center">
-
-```text
-           🧠 ALGORITMOS
-                 │
-       ┌─────────┼─────────┐
-       │         │         │
-     🔀 Sort    📋 Lista   🚶 Wave Front
-       │         │         │
-   ┌───┴───┐     │      Multiagente
-   │       │     │
- Bubble   Shell  Fila
-  Sort    Sort
-```
-
-</div>
 
 ---
 
@@ -153,28 +84,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 📈 Atualmente
-
-<div align="center">
-
-```text
-🎓 Desenvolvimento de Sistemas
-        ↓
-☕ Java + Estruturas de Dados
-        ↓
-🐍 Python + Flask
-        ↓
-🗄️ SQL + Banco de Dados
-        ↓
-🧠 Algoritmos
-        ↓
-🚀 Novos projetos
-```
 
 </div>
 
